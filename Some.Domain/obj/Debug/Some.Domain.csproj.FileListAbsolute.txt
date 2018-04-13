@@ -1,0 +1,6 @@
+C:\Users\Ilija\Documents\Visual Studio 2017\Projects\ProjektSkola\Some.Domain\bin\Debug\Restaurant.Domain.dll
+C:\Users\Ilija\Documents\Visual Studio 2017\Projects\ProjektSkola\Some.Domain\bin\Debug\Restaurant.Domain.pdb
+C:\Users\Ilija\Documents\Visual Studio 2017\Projects\ProjektSkola\Some.Domain\obj\Debug\Some.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ilija\Documents\Visual Studio 2017\Projects\ProjektSkola\Some.Domain\obj\Debug\Some.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\Visual Studio 2017\Projects\ProjektSkola\Some.Domain\obj\Debug\Restaurant.Domain.dll
+C:\Users\Ilija\Documents\Visual Studio 2017\Projects\ProjektSkola\Some.Domain\obj\Debug\Restaurant.Domain.pdb
